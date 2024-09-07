@@ -19,7 +19,7 @@ correctlyButton.addEventListener("click", function () {
 
   // Cria um novo elemento de imagem
   var img = document.createElement("img");
-  img.src = "img/couple-560783_1920.jpg"; // Nome do arquivo da imagem na mesma pasta
+  img.src = "img/fofo.jpg"; // Nome do arquivo da imagem na mesma pasta
   img.alt = "Imagem"; // Texto alternativo para acessibilidade
 
   // Adiciona estilo para ocupar toda a tela
