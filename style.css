@@ -1,10 +1,13 @@
 body {
-  top: 50%;
-  left: 50%;
-  position: absolute;
-  margin: -100px 0 0 -150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
   font-family: "Roboto", sans-serif;
+  background-color: #f4f4f4;
 }
+
 
 h1 {
   font-weight: 300;
